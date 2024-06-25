@@ -12,7 +12,8 @@
 }
 .name-intro{
     /* border: 2px solid red; */
-    width: 50%;
+    width: 100%;
+    padding-left: 50vw;
 }
 
 .name-intro>h2{
@@ -47,4 +48,31 @@
     gap: 10px;
     width: 100%;
     /* border: 2px solid red; */
+}
+
+@media screen and (max-width:768px){
+    .name-intro{
+        /* border: 2px solid red; */
+        padding-left: 5vw;
+        padding-top: 5vw;
+    }
+    .name-intro>h2{
+        font-size:7vh;
+    }
+
+    .about-me{
+        /* border: 2px solid green; */
+        width: 80%;
+        padding-left: 0;
+    }
+}
+
+@media screen and (min-width:769px)and (max-width:1024px){
+    .name-intro{
+        /* border: 2px solid red; */
+        padding-left: 35vw;
+    }
+    .name-intro>h2{
+        font-size:8vh;
+    }
 }
