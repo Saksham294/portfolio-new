@@ -168,4 +168,8 @@
     .card-container{
         height: 360px;
     }
+
+    .tools{
+        padding-top: 10vh;
+    }
 }
