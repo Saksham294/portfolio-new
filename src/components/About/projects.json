@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "PDF Generator",
+            "description": "Create your PDFs in minutes with a simple prompt.",
+            "link": "https://github.com/Saksham294/pdf-creator",
+            "img":"https://i.ibb.co/fG2TtLb/Screenshot-2024-06-19-at-7-24-24-PM.png",
+            "tools":"DALL-E, GPT-4, React, Express.js"
+        },
+        {
+            "id": 2,
+            "name": "Urban Bazzar",
+            "description": "Ecommerce platform built by users, for users, featuring excellent recommendations based on other users' purchases",
+            "link": "https://github.com/Saksham294/UrbanBazzar",
+            "img":"https://i.ibb.co/tsqJHjq/Screenshot-2024-06-19-at-8-51-05-PM.png",
+            "tools":"React, Express.js, MongoDB, Node.js"
+        },
+        {
+            "id": 3,
+            "name": "React Infinite Scroll",
+            "description": "Created React Infinite Scroll Component which fetches data automatically on scroll and select multiple dropdown filters",
+            "link": "https://github.com/Saksham294/react-infinite-scroll",
+            "img":"https://i.ibb.co/hdGg3jq/Screenshot-2024-06-19-at-8-56-26-PM.png",
+            "tools":"React"
+        },
+        {
+            "id": 4,
+            "name": "Mera Mann",
+            "description": "Create awareness about mental health and provide assistance using AI chatbot and resources for mental health issues",
+            "link": "https://github.com/Saksham294/Mera-Mann",
+            "img":"https://i.ibb.co/vLtDkcx/Screenshot-2024-06-19-at-8-49-55-PM.png",
+            "tools":"OpenAI API, React, Express.js, MongoDB"
+        },
+        {
+            "id": 5,
+            "name": "Writers Zinga",
+            "description": "A website for writers to share their work",
+            "link": "https://github.com/Saksham294/writers-zinga",
+            "img":"https://i.ibb.co/PG8QJvT/Screenshot-2024-06-19-at-8-49-20-PM.png",
+            "tools":"React, Express.js, MongoDB, Node.js"
+        }
+    ]
+}

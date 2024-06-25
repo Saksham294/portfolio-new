@@ -37,13 +37,13 @@ const Navbar = () => {
             <nav className="navbar">
                 <ul className="nav-menu">
                     <li className="nav-item">
-                        <a href="#" className="nav-link">Contact</a>
+                        <a href="#contact" className="nav-link">Contact</a>
                     </li>
+                    {/* <li className="nav-item">
+                        <a href="/blog" className="nav-link">Blog</a>
+                    </li> */}
                     <li className="nav-item">
-                        <a href="#" className="nav-link">Experience</a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#" className="nav-link">About</a>
+                        <a href="/#about" className="nav-link">About</a>
                     </li>
                 </ul>
                 <div className="hamburger">

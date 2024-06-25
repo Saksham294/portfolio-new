@@ -1,0 +1,165 @@
+.card-container {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    width: 250px;
+    height: 320px;
+    border-radius: 10px;
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: column;
+    padding: 2.5vh;
+    margin: 1vh;
+    transition: 0.2s ease-in-out;
+}
+
+.card-container:hover {
+    scale: 1.04;
+}
+
+.company-logo>img {
+    width: 4vh;
+    height: 4vh;
+    /* border: 2px solid green; */
+}
+
+.about-us {
+    /* border: 2px solid red; */
+    height: 80px;
+    overflow-y: auto;
+    overflow-wrap: break-word;
+    text-overflow: wrap;
+
+}
+
+.about-us>h6 {
+    font-weight: 300;
+    font-size: 1.8vh;
+}
+
+.date-posted {
+    /* border: 2px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 10px;
+    padding: 0.5vh 1vh;
+    width: 105px;
+}
+
+.date-posted>p {
+    font-size: 1.5vh;
+    font-weight: 400;
+    color: #9b9b9b;
+
+}
+
+
+.job-header {
+    display: flex;
+    gap: 1vh;
+}
+
+.company-name>h6 {
+    color: #353535;
+    font-size: 2vh;
+    font-weight: 500;
+}
+
+.role>h6 {
+    font-weight: 400;
+    font-size: 2vh;
+}
+
+.location>h6 {
+    font-weight: 400;
+    font-size: 1.5vh;
+}
+
+.est-salary>p {
+    font-size: 1.8vh;
+    font-weight: 300;
+    color: #7d7d7d;
+}
+
+.about-header>h6 {
+    font-size: 2vh;
+    font-weight: 400;
+}
+.about-company{
+    /* border: 2px solid red; */
+
+}
+.about-company>p {
+    font-weight: 500;
+    font-size: 2vh;
+}
+
+.about-company>img{
+    width: 240px;
+    height: 120px;
+}
+
+.min-exp>h6 {
+    color: #8b8b8b;
+    font-size: 1.8vh;
+    font-family: 'Montserrat';
+}
+.min-exp>p{
+    font-size: 2vh;
+    font-weight: 300;
+}
+
+.apply-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.referral-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.apply-btn>a{
+    width: 100%;
+}
+.apply-btn>a>button {
+    border: none;
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: black;
+    width: 100%;
+    padding: 1.5vh 0;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: 'Roboto';
+    transition: 0.3s ease-in-out;
+}
+
+.apply-btn>a>button:hover {
+    background-color: #56f1c8;
+    color: white;
+}
+
+.referral-btn>button, .referral-btn>button>a{
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    background-color: #000000;
+    color: white;
+    width: 100%;
+    padding: 1vh 0;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
+
+.tools>h6{
+    font-size: 1.8vh;
+    font-weight: 300;
+    color: #7d7d7d;
+}
+.tools>p{
+    font-size: 1.8vh;
+    font-weight: 400;
+    padding-bottom: 0.5vh;
+    font-family: "Poppins";
+}
