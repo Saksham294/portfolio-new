@@ -23,8 +23,6 @@
 
 .about-us {
     /* border: 2px solid red; */
-    height: 80px;
-    overflow-y: auto;
     overflow-wrap: break-word;
     text-overflow: wrap;
 
@@ -167,9 +165,5 @@
 @media screen and (max-width:425px){
     .card-container{
         height: 360px;
-    }
-
-    .tools{
-        padding-top: 10vh;
     }
 }
