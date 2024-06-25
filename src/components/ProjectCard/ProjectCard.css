@@ -23,6 +23,7 @@
 
 .about-us {
     /* border: 2px solid red; */
+    height: 110px;
     overflow-wrap: break-word;
     text-overflow: wrap;
 
