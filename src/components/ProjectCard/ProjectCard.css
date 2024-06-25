@@ -163,3 +163,9 @@
     padding-bottom: 0.5vh;
     font-family: "Poppins";
 }
+
+@media screen and (max-width:425px){
+    .card-container{
+        height: 360px;
+    }
+}
