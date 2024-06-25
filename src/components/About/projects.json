@@ -30,7 +30,7 @@
             "description": "Create awareness about mental health and provide assistance using AI chatbot and resources for mental health issues",
             "link": "https://github.com/Saksham294/Mera-Mann",
             "img":"https://i.ibb.co/vLtDkcx/Screenshot-2024-06-19-at-8-49-55-PM.png",
-            "tools":"OpenAI API, React, Express.js, MongoDB"
+            "tools":"OpenAI API, React, Express.js"
         },
         {
             "id": 5,
