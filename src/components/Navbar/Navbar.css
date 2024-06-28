@@ -101,3 +101,7 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+
+@media screen and (min-width:1440px){
+    .navbar>ul{}
+}

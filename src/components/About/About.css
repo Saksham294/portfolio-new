@@ -47,6 +47,7 @@
     flex-wrap: wrap;    
     gap: 10px;
     width: 100%;
+    padding-bottom: 10vh;
     /* border: 2px solid red; */
 }
 
@@ -67,7 +68,7 @@
     }
 
 }
-@media screen and (min-width:426px)and (max-width:768px){
+@media screen and (min-width:426px)and (max-width:767px){
     .name-intro{
         /* border: 2px solid red; */
         padding-left: 5vw;
@@ -84,6 +85,19 @@
     }
 }
 
+@media screen and (min-width:768px) and (max-width:768px){
+    .name-intro{
+        /* border: 2px solid red; */
+        padding-left: 35vw;
+    }
+    .name-intro>h2{
+        font-size:8vh;
+    }
+    .about-me{
+        width: 80%;
+    }
+}
+
 @media screen and (min-width:769px)and (max-width:1024px){
     .name-intro{
         /* border: 2px solid red; */
@@ -91,5 +105,18 @@
     }
     .name-intro>h2{
         font-size:8vh;
+    }
+}
+
+@media screen and (min-width:2560px) {
+    .projects-container{
+        /* border: 2px solid red; */
+        width: 100%;
+    }
+    .about{
+
+    }
+    .about-container{
+
     }
 }
