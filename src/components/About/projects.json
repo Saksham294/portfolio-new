@@ -18,6 +18,14 @@
         },
         {
             "id": 3,
+            "name": "Routes Explorer",
+            "description": "Parse your Express API and find various route details like HTTP method, paths and function bodies",
+            "link": "https://github.com/Saksham294/routes-explorer",
+            "img":"https://i.postimg.cc/sf0jN7th/Screenshot-2024-07-09-at-7-33-29-PM.png",
+            "tools":"Javascript"
+        },
+        {
+            "id": 4,
             "name": "React Infinite Scroll",
             "description": "Created React Infinite Scroll Component which fetches data automatically on scroll and select multiple dropdown filters",
             "link": "https://github.com/Saksham294/react-infinite-scroll",
@@ -25,7 +33,7 @@
             "tools":"React"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Mera Mann",
             "description": "Create awareness about mental health and provide assistance using AI chatbot and resources for mental health issues",
             "link": "https://github.com/Saksham294/Mera-Mann",
@@ -33,7 +41,7 @@
             "tools":"OpenAI API, React, Express.js"
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Writers Zinga",
             "description": "A website for writers to share their work",
             "link": "https://github.com/Saksham294/writers-zinga",
